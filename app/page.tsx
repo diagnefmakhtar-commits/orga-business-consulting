@@ -497,4 +497,12 @@ export default function Home() {
               rel="noopener noreferrer"
               className="block rounded-2xl bg-[#0F766E] px-8 py-6 text-center text-lg font-black text-white shadow-xl transition hover:-translate-y-1 hover:bg-[#115E59] hover:shadow-[0_20px_50px_rgba(15,118,110,0.35)]"
             >
-        
+              ✆ Démarrer mon diagnostic gratuit
+            </a>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  );
+}

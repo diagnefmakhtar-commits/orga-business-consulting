@@ -148,5 +148,14 @@ export default function PourquoiOrgaPage() {
           >
             Faire mon diagnostic gratuit
           </a>
-
-  
+          <a
+            href="/offres"
+            className="rounded-xl border border-white/20 px-8 py-5 font-black text-white transition hover:border-[#5EEAD4] hover:text-[#5EEAD4]"
+          >
+            Voir les offres
+          </a>
+        </div>
+      </section>
+    </main>
+  );
+}

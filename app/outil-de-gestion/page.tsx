@@ -312,4 +312,6 @@ export default function OutilDeGestionPage() {
           Échange rapide • Sans engagement
         </p>
       </section>
-  
+    </div>
+  );
+}

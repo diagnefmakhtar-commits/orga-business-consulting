@@ -227,4 +227,11 @@ export default function RootLayout({
                     </li>
                   ))}
                 </ul>
-              </di
+              </div>
+            </div>
+          </div>
+        </footer>
+      </body>
+    </html>
+  );
+}
