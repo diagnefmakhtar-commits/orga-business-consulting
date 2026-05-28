@@ -76,7 +76,7 @@ export default function NavMobile() {
         <div className="flex items-center justify-between border-b border-[#DED6C8] px-6 py-5">
           <div>
             <p className="text-sm font-black text-[#0F172A]">
-              ORGA BUSINESS CONSULTING
+              ORGA BUSINESS SOLUTIONS
             </p>
             <p className="text-xs text-[#64748B]">
               Conseil • Pilotage financier • Organisation

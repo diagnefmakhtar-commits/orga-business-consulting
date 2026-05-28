@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Pourquoi ORGA — ORGA BUSINESS CONSULTING",
+  title: "Pourquoi ORGA — ORGA BUSINESS SOLUTIONS",
   description:
-    "Découvrez pourquoi ORGA BUSINESS CONSULTING existe et comment nous aidons les dirigeants africains à reprendre le contrôle de leur activité.",
+    "Découvrez pourquoi ORGA BUSINESS SOLUTIONS existe et comment nous aidons les dirigeants africains à reprendre le contrôle de leur activité.",
 };
 
 export default function PourquoiOrgaPage() {
@@ -88,7 +88,7 @@ export default function PourquoiOrgaPage() {
             </p>
 
             <p>
-              ORGA BUSINESS CONSULTING est né de cette réalité : aider les
+              ORGA BUSINESS SOLUTIONS est né de cette réalité : aider les
               dirigeants à reprendre le contrôle sans complexifier leur
               activité.
             </p>
@@ -149,14 +149,4 @@ export default function PourquoiOrgaPage() {
             Faire mon diagnostic gratuit
           </a>
 
-          <Link
-            href="/offres"
-            className="rounded-xl border border-white/20 px-8 py-5 font-black text-white transition hover:border-[#5EEAD4] hover:text-[#5EEAD4]"
-          >
-            Voir les offres
-          </Link>
-        </div>
-      </section>
-    </main>
-  );
-}
+  

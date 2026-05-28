@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Politique de cookies — ORGA BUSINESS CONSULTING",
+  title: "Politique de cookies — ORGA BUSINESS SOLUTIONS",
   description:
-    "Politique de cookies de ORGA BUSINESS CONSULTING — comment nous utilisons les cookies et comment les gérer.",
+    "Politique de cookies de ORGA BUSINESS SOLUTIONS — comment nous utilisons les cookies et comment les gérer.",
 };
 
 export default function Cookies() {
@@ -75,7 +75,7 @@ export default function Cookies() {
               2. Les cookies que nous utilisons
             </h2>
             <p className="mb-6">
-              Le site de ORGA BUSINESS CONSULTING peut utiliser les catégories
+              Le site de ORGA BUSINESS SOLUTIONS peut utiliser les catégories
               de cookies suivantes :
             </p>
             <div className="space-y-4">

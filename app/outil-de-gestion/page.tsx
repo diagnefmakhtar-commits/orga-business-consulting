@@ -48,7 +48,7 @@ export default function OutilDeGestionPage() {
           </div>
 
           <p className="mt-4 text-sm text-[#64748B]">
-            Disponible seul ou intégré dans l’accompagnement ORGA BUSINESS CONSULTING.
+            Disponible seul ou intégré dans l’accompagnement ORGA BUSINESS SOLUTIONS.
           </p>
         </div>
 
@@ -312,6 +312,4 @@ export default function OutilDeGestionPage() {
           Échange rapide • Sans engagement
         </p>
       </section>
-    </div>
-  );
-}
+  

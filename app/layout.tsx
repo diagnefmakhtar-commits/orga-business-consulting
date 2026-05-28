@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "ORGA BUSINESS CONSULTING",
-    template: "%s — ORGA BUSINESS CONSULTING",
+    default: "ORGA BUSINESS SOLUTIONS",
+    template: "%s — ORGA BUSINESS SOLUTIONS",
   },
   description:
     "Cabinet de conseil en organisation, pilotage financier et gestion d'entreprise basé à Dakar. Diagnostic gratuit pour reprendre le contrôle de votre activité.",
@@ -31,13 +31,13 @@ export const metadata: Metadata = {
     "diagnostic entreprise gratuit",
     "ORGA outil gestion",
   ],
-  authors: [{ name: "ORGA BUSINESS CONSULTING" }],
+  authors: [{ name: "ORGA BUSINESS SOLUTIONS" }],
   openGraph: {
     type: "website",
     locale: "fr_SN",
     url: "https://teranga-business.com",
-    siteName: "ORGA BUSINESS CONSULTING",
-    title: "ORGA BUSINESS CONSULTING — Conseil • Pilotage financier • Organisation",
+    siteName: "ORGA BUSINESS SOLUTIONS",
+    title: "ORGA BUSINESS SOLUTIONS — Conseil • Pilotage financier • Organisation",
     description:
       "Cabinet de conseil en organisation et pilotage financier basé à Dakar. Diagnostic gratuit pour les dirigeants qui veulent reprendre le contrôle.",
     images: [
@@ -45,13 +45,13 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "ORGA BUSINESS CONSULTING",
+        alt: "ORGA BUSINESS SOLUTIONS",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "ORGA BUSINESS CONSULTING",
+    title: "ORGA BUSINESS SOLUTIONS",
     description:
       "Cabinet de conseil en organisation et pilotage financier basé à Dakar.",
     images: ["/og-image.png"],
@@ -97,7 +97,7 @@ export default function RootLayout({
                 href="/"
                 className="block text-xl font-black tracking-tight text-[#0F172A] transition hover:text-[#0F766E]"
               >
-                ORGA BUSINESS CONSULTING
+                ORGA BUSINESS SOLUTIONS
               </Link>
 
               <p className="mt-1 text-sm text-[#334155]">
@@ -169,13 +169,13 @@ export default function RootLayout({
                   href="/"
                   className="text-sm font-black text-[#0F172A] hover:text-[#0F766E] transition"
                 >
-                  ORGA BUSINESS CONSULTING
+                  ORGA BUSINESS SOLUTIONS
                 </Link>
                 <p className="mt-1 text-xs text-[#64748B]">
                   Conseil • Pilotage financier • Organisation
                 </p>
                 <p className="mt-4 text-xs text-[#94A3B8]">
-                  © {new Date().getFullYear()} ORGA BUSINESS CONSULTING.
+                  © {new Date().getFullYear()} ORGA BUSINESS SOLUTIONS.
                   Tous droits réservés.
                 </p>
               </div>
@@ -227,11 +227,4 @@ export default function RootLayout({
                     </li>
                   ))}
                 </ul>
-              </div>
-            </div>
-          </div>
-        </footer>
-      </body>
-    </html>
-  );
-}
+              </di

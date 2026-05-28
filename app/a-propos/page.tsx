@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "À propos — ORGA BUSINESS CONSULTING",
+  title: "À propos — ORGA BUSINESS SOLUTIONS",
   description:
-    "Découvrez qui est derrière ORGA BUSINESS CONSULTING, notre vision et notre approche du conseil aux dirigeants.",
+    "Découvrez qui est derrière ORGA BUSINESS SOLUTIONS, notre vision et notre approche du conseil aux dirigeants.",
 };
 
 export default function APropos() {
@@ -48,7 +48,7 @@ export default function APropos() {
                 Un cabinet construit pour les dirigeants qui veulent reprendre le contrôle.
               </h1>
               <p className="mt-6 text-lg leading-8 text-[#475569]">
-                ORGA BUSINESS CONSULTING est né d'un constat simple : trop
+                ORGA BUSINESS SOLUTIONS est né d'un constat simple : trop
                 d'entreprises africaines ont du potentiel mais manquent de
                 structure pour le transformer en résultats durables.
               </p>
@@ -63,7 +63,7 @@ export default function APropos() {
                 <div>
                   <p className="text-xl font-black">[Prénom NOM]</p>
                   <p className="mt-1 text-sm text-[#0F766E] font-bold">
-                    Fondateur — ORGA BUSINESS CONSULTING
+                    Fondateur — ORGA BUSINESS SOLUTIONS
                   </p>
                 </div>
               </div>
@@ -114,7 +114,7 @@ export default function APropos() {
               priorité.
             </p>
             <p className="font-black text-[#0F172A]">
-              ORGA BUSINESS CONSULTING est né pour changer ça. Pas avec des méthodes complexes
+              ORGA BUSINESS SOLUTIONS est né pour changer ça. Pas avec des méthodes complexes
               importées sans adaptation, mais avec une approche claire, ancrée
               dans la réalité du terrain africain.
             </p>

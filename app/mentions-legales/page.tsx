@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Mentions légales — ORGA BUSINESS CONSULTING",
-  description: "Mentions légales de ORGA BUSINESS CONSULTING.",
+  title: "Mentions légales — ORGA BUSINESS SOLUTIONS",
+  description: "Mentions légales de ORGA BUSINESS SOLUTIONS.",
 };
 
 export default function MentionsLegales() {

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Conditions Générales d'Utilisation — ORGA BUSINESS CONSULTING",
+  title: "Conditions Générales d'Utilisation — ORGA BUSINESS SOLUTIONS",
   description:
-    "Conditions Générales d'Utilisation du site et des services de ORGA BUSINESS CONSULTING.",
+    "Conditions Générales d'Utilisation du site et des services de ORGA BUSINESS SOLUTIONS.",
 };
 
 export default function CGU() {
@@ -34,7 +34,7 @@ export default function CGU() {
             </h2>
             <p>
               Les présentes Conditions Générales d'Utilisation (ci-après «&nbsp;CGU&nbsp;»)
-              régissent l'accès et l'utilisation du site internet de ORGA BUSINESS CONSULTING
+              régissent l'accès et l'utilisation du site internet de ORGA BUSINESS SOLUTIONS
               BUSINESS SOLUTIONS (ci-après «&nbsp;le Site&nbsp;»), accessible à
               l'adresse{" "}
               <a
@@ -83,7 +83,7 @@ export default function CGU() {
               connexion, etc.) sont à la charge exclusive de l'utilisateur.
             </p>
             <p className="mt-3">
-              ORGA BUSINESS CONSULTING se réserve le droit de suspendre,
+              ORGA BUSINESS SOLUTIONS se réserve le droit de suspendre,
               modifier ou interrompre l'accès au Site, à tout moment et sans
               préavis, notamment pour des raisons de maintenance ou d'évolution
               technique.
@@ -97,7 +97,7 @@ export default function CGU() {
             </h2>
             <p>
               L'ensemble des contenus du Site (textes, graphismes, logotypes,
-              images, vidéos, etc.) sont la propriété exclusive de ORGA BUSINESS CONSULTING
+              images, vidéos, etc.) sont la propriété exclusive de ORGA BUSINESS SOLUTIONS
               BUSINESS SOLUTIONS ou de ses partenaires, et sont protégés par
               les lois françaises et internationales relatives à la propriété
               intellectuelle.
@@ -106,7 +106,7 @@ export default function CGU() {
               Toute reproduction, représentation, modification, publication ou
               adaptation de tout ou partie des éléments du Site, quel que soit
               le moyen ou le procédé utilisé, est interdite sans l'autorisation
-              écrite préalable de ORGA BUSINESS CONSULTING.
+              écrite préalable de ORGA BUSINESS SOLUTIONS.
             </p>
           </div>
 
@@ -116,7 +116,7 @@ export default function CGU() {
               5. Responsabilité
             </h2>
             <p>
-              ORGA BUSINESS CONSULTING s'efforce de fournir des informations
+              ORGA BUSINESS SOLUTIONS s'efforce de fournir des informations
               exactes et à jour. Cependant, la société ne saurait être tenue
               responsable des erreurs ou omissions, d'une indisponibilité du
               Site ou de dommages résultant de l'utilisation des informations
@@ -124,7 +124,7 @@ export default function CGU() {
             </p>
             <p className="mt-3">
               Les liens hypertextes présents sur le Site peuvent renvoyer vers
-              des sites tiers. ORGA BUSINESS CONSULTING ne saurait être tenue
+              des sites tiers. ORGA BUSINESS SOLUTIONS ne saurait être tenue
               responsable du contenu de ces sites.
             </p>
           </div>
@@ -188,7 +188,7 @@ export default function CGU() {
               9. Modifications
             </h2>
             <p>
-              ORGA BUSINESS CONSULTING se réserve le droit de modifier les
+              ORGA BUSINESS SOLUTIONS se réserve le droit de modifier les
               présentes CGU à tout moment. Les modifications entrent en vigueur
               dès leur mise en ligne. Il appartient à l'utilisateur de les
               consulter régulièrement.

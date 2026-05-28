@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Politique de confidentialité — ORGA BUSINESS CONSULTING",
+  title: "Politique de confidentialité — ORGA BUSINESS SOLUTIONS",
   description:
-    "Politique de confidentialité et protection des données personnelles de ORGA BUSINESS CONSULTING.",
+    "Politique de confidentialité et protection des données personnelles de ORGA BUSINESS SOLUTIONS.",
 };
 
 export default function PolitiqueConfidentialite() {

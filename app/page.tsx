@@ -72,7 +72,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-8 max-w-xl text-lg leading-9 text-[#334155]">
-            ORGA BUSINESS CONSULTING aide les dirigeants africains à organiser,
+            ORGA BUSINESS SOLUTIONS aide les dirigeants africains à organiser,
             piloter et développer leur activité avec méthode — conseil terrain,
             structuration et outil de gestion adaptés à votre réalité.
           </p>
@@ -497,12 +497,4 @@ export default function Home() {
               rel="noopener noreferrer"
               className="block rounded-2xl bg-[#0F766E] px-8 py-6 text-center text-lg font-black text-white shadow-xl transition hover:-translate-y-1 hover:bg-[#115E59] hover:shadow-[0_20px_50px_rgba(15,118,110,0.35)]"
             >
-              ✆ Démarrer mon diagnostic gratuit
-            </a>
-          </div>
-        </div>
-      </section>
-
-    </div>
-  );
-}
+        
