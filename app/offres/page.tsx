@@ -13,7 +13,7 @@ import {
 export const metadata: Metadata = {
   title: "Offres & tarifs — ORGA BUSINESS SOLUTIONS",
   description:
-    "Diagnostic, organisation, comptabilité, DAF externalisé ou outil ORGA : choisissez le niveau d'accompagnement adapté à votre activité.",
+    "Diagnostic, organisation, comptabilité, DAF externalisé ou outil ORGA : choisissez le niveau d&apos;accompagnement adapté à votre activité.",
 };
 
 export default function OffresPage() {
@@ -109,7 +109,7 @@ export default function OffresPage() {
             </p>
             <p className="mt-2 text-[#475569]">
               Le diagnostic décide pour vous : 20 minutes pour identifier ce
-              qui bloque et l'offre la plus adaptée à votre situation.
+              qui bloque et l&apos;offre la plus adaptée à votre situation.
             </p>
           </div>
 
@@ -411,7 +411,7 @@ export default function OffresPage() {
               href={whatsappUrl}
               className="mt-auto pt-6 block rounded-xl bg-[#0F172A] px-5 py-4 text-center font-bold text-white shadow-lg transition hover:bg-[#1E293B] hover:shadow-xl"
             >
-              M'inscrire en accès anticipé
+              M&apos;inscrire en accès anticipé
             </a>
 
             <p className="mt-3 text-center text-xs text-[#64748B]">
@@ -432,7 +432,7 @@ export default function OffresPage() {
               </h2>
               <p className="mt-4 max-w-2xl text-[#475569]">
                 En 20 minutes, on identifie ensemble vos priorités, vos blocages
-                et l'offre qui correspond vraiment à votre situation — sans vous
+                et l&apos;offre qui correspond vraiment à votre situation — sans vous
                 engager sur quelque chose de trop grand ou de trop petit.
               </p>
               <div className="mt-6 flex flex-wrap gap-3">
@@ -470,7 +470,7 @@ export default function OffresPage() {
               <h3 className="mt-4 text-2xl font-black">Une entreprise subie</h3>
               <p className="mt-4 text-white/70">
                 Organisation floue, pertes financières, décisions prises à
-                l'intuition.
+                l&apos;intuition.
               </p>
             </div>
             <div className="bg-white p-14">
@@ -571,7 +571,7 @@ export default function OffresPage() {
 
           <div className="mt-10 rounded-3xl bg-linear-to-br from-[#0F172A] to-[#1E293B] p-8 text-center text-white">
             <p className="text-sm font-bold text-[#5EEAD4]">
-              Le but n'est pas d'ajouter de la complexité.
+              Le but n&apos;est pas d&apos;ajouter de la complexité.
             </p>
             <h3 className="mt-3 text-2xl font-black">
               Le but est de rendre votre activité plus simple à gérer.
@@ -592,7 +592,7 @@ export default function OffresPage() {
             {[
               {
                 q: "Est-ce que je suis trop petit pour vous faire appel ?",
-                a: "Non. Nous travaillons avec des TPE, des PME et des indépendants. La taille n'est pas un critère — l'envie de s'organiser, si. Le diagnostic permet justement de voir si et comment on peut vous aider.",
+                a: "Non. Nous travaillons avec des TPE, des PME et des indépendants. La taille n&apos;est pas un critère — l'envie de s'organiser, si. Le diagnostic permet justement de voir si et comment on peut vous aider.",
               },
               {
                 q: "Par où on commence concrètement ?",
@@ -600,7 +600,7 @@ export default function OffresPage() {
               },
               {
                 q: "Combien de temps dure un accompagnement ?",
-                a: "Ça dépend de l'offre. Le diagnostic est un one-shot. Les offres mensuelles commencent généralement par 3 mois pour installer les bases, puis s'adaptent à vos besoins.",
+                a: "Ça dépend de l&apos;offre. Le diagnostic est un one-shot. Les offres mensuelles commencent généralement par 3 mois pour installer les bases, puis s'adaptent à vos besoins.",
               },
               {
                 q: "Puis-je arrêter à tout moment ?",
